@@ -1,0 +1,2 @@
+# MotivationApp
+Motivation - daily inspirational
